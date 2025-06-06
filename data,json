@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Build To-Do App",
+    "status": "In Progress"
+  },
+  {
+    "title": "Connect MongoDB",
+    "status": "Done"
+  },
+  {
+    "title": "Test /api route",
+    "status": "Pending"
+  }
+]
